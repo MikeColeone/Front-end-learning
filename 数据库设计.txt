@@ -1,0 +1,23 @@
+用户
+id
+username
+account
+password
+role (admin teacher superAdmin)
+
+实验室
+id
+number
+totals
+information
+name
+
+
+课程
+id
+uid
+lid
+name
+infomation(专业，年级，班级)
+week
+time
