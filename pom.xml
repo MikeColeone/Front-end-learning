@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.example</groupId>
-    <artifactId>Laboratory-Appointment-System-spring</artifactId>
+    <artifactId>Laboratory-Appointment-System-mine</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Laboratory-Appointment-System-spring</name>
     <description>Laboratory-Appointment-System-spring</description>
