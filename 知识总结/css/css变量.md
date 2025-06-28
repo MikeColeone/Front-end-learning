@@ -103,4 +103,10 @@ document.body.classList.toggle('dark-theme')
 
 ---
 
-如果你想，我可以给你写一个 **支持主题切换的完整页面 demo**，用纯 CSS 变量+JS 实现。需要吗？
+## 代码例子
+
+
+
+```css
+
+```
